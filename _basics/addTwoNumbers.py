@@ -11,3 +11,4 @@ num_2=input('Enter 2nd number:')
 sum=float(num_1)+float(num_2)
 
 print('{0}+{1}, Ans: {2}'.format(num_1, num_2, sum))
+print(f'{num_1}+{num_2}, Ans: {sum}')
