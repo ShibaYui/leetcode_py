@@ -1,0 +1,16 @@
+##	Filename: README
+##	Author: yu1
+##	Date: 2025-01-12 14:21:22 +0800
+##  
+##	Description:
+##		python learning, leetcode & basics
+##		
+##	File structure:
+##		./
+##		├── _basics
+##		└── README
+##
+
+#2025-01-12 14:26:23 +0800
+	initial release (2025-01-12)
+	add folder "_basics"
