@@ -63,23 +63,9 @@ syntax-practicing URL: `https://kh-coding.blogspot.com/p/python-46.html`
 
 note URL: `https://www.notion.so/lenchen/LeetCode-47d625b874894484af7c055b024b9817`
 
-solution URL: `https://blog.csdn.net/qq_32424059/article/details/88855423`
+solution URL: `https://github.com/JiayangWu/LeetCode-Python`
 		 
-##	File structure:
-```		
-./
-├── 0001_two_sum
-│   ├── hash_twoSum.py
-│   └── twoSum.py
-├── _basics
-│   ├── addTwoNumbers.py
-│   ├── caculateAreaOfTriangle.py
-│   ├── findTheSquareRoot.py
-│   ├── hello.py
-│   └── solveQuadraticEquation.py
-└── README.md
-```
- 
+
 ## Release 
 * 2025-01-12 14:26:23 +0800
 	initial release (2025-01-12)
@@ -92,3 +78,9 @@ solution URL: `https://blog.csdn.net/qq_32424059/article/details/88855423`
 	add list
 	update file structure
 	upload answer-code "two sum"
+
+* 2025-04-24 09:41:44 +0800
+	new file:   _basics/006_swapTwoVariable.py
+	new file:   _basics/007_generate_a_random_number.py
+	new file:   _basics/008_diceRoller.py
+	new file:   _basics/009_randomPassword.py
